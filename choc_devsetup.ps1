@@ -6,6 +6,7 @@ cinst git
 cinst notepadplusplus 
 cinst sublimetext2 
 cinst SublimeText2.PackageControl
+cinst ConEmu
 cinst ruby
 cinst ruby.devkit
 cinst python 
