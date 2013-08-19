@@ -10,6 +10,9 @@ cinst ruby
 cinst ruby.devkit
 cinst python 
 cinst nodejs
+cinst DotNet4.0
+cinst DotNet4.5
+cinst webpi
 cinst putty
 cinst Firefox
 cinst GoogleChrome
