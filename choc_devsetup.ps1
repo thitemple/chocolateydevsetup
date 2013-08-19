@@ -12,6 +12,7 @@ cinst python
 cinst nodejs
 cinst putty
 cinst Firefox
+cinst GoogleChrome
 cinst fiddler4
 cinst filezilla
 cinst PhantomJS
