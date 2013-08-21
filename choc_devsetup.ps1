@@ -10,7 +10,6 @@ cinst ConEmu
 cinst ruby
 cinst python 
 cinst nodejs
-cinst DotNet4.0
 cinst DotNet4.5
 cinst webpi
 cinst putty
