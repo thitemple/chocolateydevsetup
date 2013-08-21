@@ -20,7 +20,6 @@ cinst fiddler4
 cinst filezilla
 cinst PhantomJS
 cinst paint.net
-cinst Compass
 cinst poshgit 
 cinst dropbox
 cinst winmerge
